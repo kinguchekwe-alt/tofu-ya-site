@@ -262,6 +262,37 @@ const CATEGORIES: MenuCategory[] = [
           },
         ],
       },
+      {
+        subhead: "Also on the Menu",
+        note: "A few more house favorites — ask your server for current pricing.",
+        items: [
+          {
+            name: "Lunch Box",
+            desc: "A weekday favorite — ask your server for today's protein and pricing.",
+            image: "/images/menu/lunch-box.jpg",
+          },
+          {
+            name: "Galbi Lunch Box",
+            desc: "Grilled galbi served lunch-box style with rice and banchan.",
+            image: "/images/menu/lunch-box.jpg",
+          },
+          {
+            name: "Kimchi Bokkeumbap",
+            desc: "Kimchi fried rice tossed with vegetables and finished with a fried egg on top.",
+            image: "/images/menu/kimchi-bokkeumbap.jpg",
+          },
+          {
+            name: "Japchae",
+            desc: "Stir-fried glass noodles with vegetables and a hint of sesame — a classic Korean favorite.",
+            image: "/images/menu/japchae.jpg",
+          },
+          {
+            name: "Chicken Wings",
+            desc: "Korean-style glazed fried chicken wings, finished with sesame and scallion.",
+            image: "/images/menu/chicken-wings.jpg",
+          },
+        ],
+      },
     ],
   },
   {
